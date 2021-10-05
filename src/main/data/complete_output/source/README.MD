@@ -1,0 +1,1 @@
+SCD Type2 processed result comes here
