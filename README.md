@@ -1,4 +1,4 @@
-
+This is a sample Apache Beam code which can be executed in one the 3 below engines. This code basically compares the subsequent day file with the previous day's record and give a differential records for processing.
 |  Tested Runners|
 |--|
 |  DatflowRunner|
